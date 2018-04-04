@@ -1,0 +1,14 @@
+body {
+      background-color: black;  
+}
+
+h1 {
+    text-align: center;
+    color: red; 
+    font-family: 'Roboto Mono', monospace;
+}
+
+p {
+    color: red;
+    font-family: 'Roboto Mono', monospace;
+}
